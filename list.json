@@ -1,0 +1,33 @@
+{
+ "title": "New Grad and Entry-Level Software Engineer Jobs (updated daily)",
+ "intro": "Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.",
+ "feed": "https://jobseveryhour.com/api/v1/lists/new-grad-software-engineer.json",
+ "page": "https://jobseveryhour.com/categories/software-development/entry-level/",
+ "more": [
+  [
+   "Entry-level software jobs",
+   "https://jobseveryhour.com/categories/software-development/entry-level/"
+  ],
+  [
+   "Software engineer salaries",
+   "https://jobseveryhour.com/salaries/software-engineer/"
+  ],
+  [
+   "Software engineer interview questions",
+   "https://jobseveryhour.com/interview-questions/software-engineer/"
+  ],
+  [
+   "Software engineer resume examples",
+   "https://jobseveryhour.com/resume/examples/software-engineer/"
+  ],
+  [
+   "Tech internships",
+   "https://github.com/Simba0315/tech-internships-2027"
+  ],
+  [
+   "Remote software engineer jobs",
+   "https://github.com/Simba0315/remote-software-engineer-jobs"
+  ]
+ ],
+ "repo": "Simba0315/new-grad-software-engineer-jobs"
+}
