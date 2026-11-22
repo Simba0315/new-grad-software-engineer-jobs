@@ -2,7 +2,7 @@
 
 Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.
 
-**632 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**644 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,13 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-2/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-3/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-4/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-5/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-6/) | Remote | — |  |
+| **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-7/) | Remote | — |  |
 | **METECS** | [Junior Simulation Software Engineer](https://jobseveryhour.com/job/junior-simulation-software-engineer-metecs/) | Houston, TX | — |  |
 | **METECS** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-metecs/) | Houston, TX | — |  |
 | **Foundation AI** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-foundation-ai/) | Bogota, Colombia | — |  |
@@ -245,6 +252,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Boeing** | [Associate Fullstack Software Engineer](https://jobseveryhour.com/job/associate-fullstack-software-engineer-boeing/) | POL - Gdansk, Poland | — | 2026-10-31 |
 | **Millennial Software Solutions** | [Full Stack Developer Junior-Mid](https://jobseveryhour.com/job/full-stack-developer-junior-mid-millennial-software-solutions/) | Chantilly, VA, USA | $80K - $140K | 2026-11-17 |
 | **Trainline** | [Junior Android Engineer](https://jobseveryhour.com/job/junior-android-engineer-trainline/) | Barcelona | €40K - €45K | 2026-10-30 |
+| **Urban Science Applications** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-urban-science-applications-2/) | Detroit, MI, US | — | 2026-10-30 |
 | **Devsinc** | [Associate Software Engineer - Open Stack](https://jobseveryhour.com/job/associate-software-engineer-open-stack-devsinc/) | Lahore, Punjab, Pakistan | — | 2026-10-30 |
 | **Global Draw** | [Associate Game Designer / Mathematician](https://jobseveryhour.com/job/associate-game-designer-mathematician-global-draw/) | Silverwater, Australia | — | 2026-10-30 |
 | **Windracers** | [Quality Assurance Engineer- Software (Junior/Graduate)](https://jobseveryhour.com/job/quality-assurance-engineer-software-junior-graduate-windracers/) | Fareham, Hampshire, United Kingdom | — | 2026-10-30 |
@@ -302,14 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Alls Well** | [Entry Level Community Integration Specialist](https://jobseveryhour.com/job/entry-level-community-integration-specialist-alls-well/) | Canyon Country, California, United States | $17 - $18 an hour | 2026-10-21 |
 | **Brainco** | [AI Product Engineer, 2027 New Grad](https://jobseveryhour.com/job/ai-product-engineer-2027-new-grad-brainco/) | San Francisco Bay Area | — | 2026-10-20 |
 | **Quora** | [Full Stack Software Engineer, New Grad - Quora (Remote)](https://jobseveryhour.com/job/full-stack-software-engineer-new-grad-quora-remote-quora/) | Remote - Multiple Locations | $98K - $139K | 2026-10-20 |
-| **SambaNova** | [AI Performance Engineer - New Grad](https://jobseveryhour.com/job/ai-performance-engineer-new-grad-sambanova/) | Austin, Texas, United States; San Jose, California, United States | $131K - $197K | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, Analysis Tools 2027](https://jobseveryhour.com/job/graduate-software-engineer-analysis-tools-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, AI Compute Libraries & Performance 2027](https://jobseveryhour.com/job/graduate-software-engineer-ai-compute-libraries-performance-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, Accelerator Modelling 2027](https://jobseveryhour.com/job/graduate-software-engineer-accelerator-modelling-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, AI/ ML Test Systems 2027](https://jobseveryhour.com/job/graduate-software-engineer-ai-ml-test-systems-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, DevOps 2027](https://jobseveryhour.com/job/graduate-software-engineer-devops-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, Frameworks 2027](https://jobseveryhour.com/job/graduate-software-engineer-frameworks-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, System Software QA 2027](https://jobseveryhour.com/job/graduate-software-engineer-system-software-qa-2027-graphcore/) | Bristol, UK; Cambridge, UK | — | 2026-10-20 |
 
 ## More
 
