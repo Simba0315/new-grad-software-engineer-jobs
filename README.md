@@ -2,7 +2,7 @@
 
 Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.
 
-**630 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
+**632 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -37,6 +37,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Boeing Subsidiaries** | [Embedded Software Engineer - Entry-Level](https://jobseveryhour.com/job/embedded-software-engineer-entry-level-boeing-subsidiaries/) | USA - Hazelwood, MO; USA - Berkeley, MO | $78K - $106K | 2026-11-20 |
 | **Boeing Subsidiaries** | [Entry-Level Software Engineer–Test & Verification](https://jobseveryhour.com/job/entry-level-software-engineer-test-verification-boeing-subsidiaries/) | USA - Tinker AFB, OK | $66K - $90K | 2026-11-20 |
 | **Boeing Subsidiaries** | [Entry-Level Software Engineer–Developer](https://jobseveryhour.com/job/entry-level-software-engineer-developer-boeing-subsidiaries/) | USA - Richardson, TX | $83K - $113K | 2026-11-20 |
+| **Parsons** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-parsons/) | US - Remote (Any Location) | $64K - $111K | 2026-11-20 |
 | **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
 | **Docyt** | [Associate Product Engineer](https://jobseveryhour.com/job/associate-product-engineer-docyt/) | Noida, Uttar Pradesh, India | — | 2026-11-20 |
 | **inDrive** | [Junior QA Engineer](https://jobseveryhour.com/job/junior-qa-engineer-indrive/) | Cairo, Cairo Governorate | — |  |
@@ -61,6 +62,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Motorola Solutions** | [Graduate Software Engineer (July 2027 Intake)](https://jobseveryhour.com/job/graduate-software-engineer-july-2027-intake-motorola-solutions/) | Glasgow, UK (ZUK118) | — | 2026-11-19 |
 | **Leidos** | [Junior Test Automation Engineer](https://jobseveryhour.com/job/junior-test-automation-engineer-leidos/) | 6314 Remote/Teleworker US | $58K - $105K | 2026-11-19 |
 | **ZGF Architects** | [Entry-Level Architect](https://jobseveryhour.com/job/entry-level-architect-zgf-architects-2/) | Seattle, WA | — |  |
+| **Merck (MSD)** | [Associate Specialist, Data Architect](https://jobseveryhour.com/job/associate-specialist-data-architect-merck-msd/) | POL - Mazowieckie Wojewodztwo - Warsaw (Trade Center) | — | 2026-11-19 |
 | **DXC Technology** | [Associate Manager ERP Package Applications](https://jobseveryhour.com/job/associate-manager-erp-package-applications-dxc-technology/) | IND - TN - CHENNAI | — | 2026-11-19 |
 | **Julius Baer** | [ServiceNow Junior Developer 100% (f/m/d)](https://jobseveryhour.com/job/servicenow-junior-developer-100-f-m-d-julius-baer/) | Madrid | — | 2026-11-19 |
 | **Kira** | [Software Engineer (Entry Level)](https://jobseveryhour.com/job/software-engineer-entry-level-kira/) | New York or San Francisco | $115K - $140K | 2026-11-18 |
@@ -308,8 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Graphcore** | [Graduate Software Engineer, DevOps 2027](https://jobseveryhour.com/job/graduate-software-engineer-devops-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
 | **Graphcore** | [Graduate Software Engineer, Frameworks 2027](https://jobseveryhour.com/job/graduate-software-engineer-frameworks-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
 | **Graphcore** | [Graduate Software Engineer, System Software QA 2027](https://jobseveryhour.com/job/graduate-software-engineer-system-software-qa-2027-graphcore/) | Bristol, UK; Cambridge, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Firmware Engineer 2027](https://jobseveryhour.com/job/graduate-firmware-engineer-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Software Engineer, Drivers and Utilities 2027](https://jobseveryhour.com/job/graduate-software-engineer-drivers-and-utilities-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
 
 ## More
 
