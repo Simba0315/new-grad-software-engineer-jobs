@@ -2,7 +2,7 @@
 
 Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.
 
-**620 open right now · updated 2026-11-21.** The list below shows the 300 newest. Jobs come from
+**630 open right now · updated 2026-11-22.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -16,6 +16,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **GliaCell Technologies** | [Junior Java Software Engineer](https://jobseveryhour.com/job/junior-java-software-engineer-gliacell-technologies/) | Annapolis Junction, MD | $50K - $120K |  |
 | **GliaCell Technologies** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-gliacell-technologies/) | Annapolis Junction, MD | $50K - $120K |  |
 | **Dekoit** | [Junior Web developer (Back-end)](https://jobseveryhour.com/job/junior-web-developer-back-end-dekoit/) | Chennai, Tamil Nadu, India | — |  |
+| **Softjourn** | [Junior Fullstack Engineer (React+Node.js)](https://jobseveryhour.com/job/junior-fullstack-engineer-react-node-js-softjourn/) | Ivano-Frankivsk, Ukraine | — |  |
 | **Accenture Federal Services** | [ServiceNow Jr. Developer (O&M)](https://jobseveryhour.com/job/servicenow-jr-developer-o-m-accenture-federal-services/) | Washington, DC | $70K - $137K | 2026-11-20 |
 | **Celero Communications, Inc.** | [Jr. Firmware Test Engineer](https://jobseveryhour.com/job/jr-firmware-test-engineer-celero-communications-inc/) | Cordoba, Argentina | — | 2026-11-20 |
 | **Snappy Kraken** | [Junior Web Designer](https://jobseveryhour.com/job/junior-web-designer-snappy-kraken/) | Canada; Remote (United States) | $45K - $50K | 2026-11-20 |
@@ -67,6 +68,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Marin Community Clinics** | [Associate Project Manager (Quality Assurance & Improvement) Healthcare](https://jobseveryhour.com/job/associate-project-manager-quality-assurance-improvement-heal-marin-community-clinics/) | Novato, CA, US | — | 2026-11-18 |
 | **Iron Mountain** | [Jr. Software Engineer / Biligual / Remote](https://jobseveryhour.com/job/jr-software-engineer-biligual-remote-iron-mountain/) | MEX / Ciudad de Mexico / Rodolfo Gaona, 86; MEX / Jalisco / Av. Prolongación del Colli, 1104; MEX / Nuevo León / Miguel Hidalgo | — | 2026-11-18 |
 | **Devsinc** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-devsinc/) | Islamabad, Islamabad Capital Territory, Pakistan | — | 2026-11-18 |
+| **Contexture** | [Junior Software Developer](https://jobseveryhour.com/job/junior-software-developer-contexture/) | Multiple Bases (Phoenix, Denver, or Grand Junction), Arizona, United States | $5,147 - $5,833 a month | 2026-11-18 |
 | **ZOLL Medical** | [Associate Full Stack Engineer](https://jobseveryhour.com/job/associate-full-stack-engineer-zoll-medical/) | Chelmsford, MA | $103K - $115K | 2026-11-18 |
 | **Cadence** | [Junior Product Engineer](https://jobseveryhour.com/job/junior-product-engineer-cadence/) | VALBONNE (Sophia) | — | 2026-11-18 |
 | **Braven** | [Associate Salesforce Developer](https://jobseveryhour.com/job/associate-salesforce-developer-braven/) | New York, New York, United States | $87K - $94K | 2026-11-18 |
@@ -84,6 +86,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **AeroVironment** | [Junior Software Engineer (TS/SCI w/ Poly)](https://jobseveryhour.com/job/junior-software-engineer-ts-sci-w-poly-aerovironment/) | 420 National Business Parkway, Jessup, MD | $84K - $180K | 2026-11-17 |
 | **Torch Technologies** | [Junior-Level Modeling & Simulation Software Engineer](https://jobseveryhour.com/job/junior-level-modeling-simulation-software-engineer-torch-technologies/) | Huntsville, AL | — | 2026-11-17 |
 | **Torch Technologies** | [Entry-Level Modeling & Simulation Software Engineer](https://jobseveryhour.com/job/entry-level-modeling-simulation-software-engineer-torch-technologies/) | Huntsville, AL | — | 2026-11-17 |
+| **VTS3** | [Jr. Full Stack Engineer / AI Agent Developer](https://jobseveryhour.com/job/jr-full-stack-engineer-ai-agent-developer-vts3/) | New York City, NY | — | 2026-11-17 |
 | **Analog Devices** | [Associate Engineer, Product Engineering (Mfg.)](https://jobseveryhour.com/job/associate-engineer-product-engineering-mfg-analog-devices/) | Philippines, Cavite, GTC | — | 2026-11-17 |
 | **Johnson & Johnson** | [Associate Specialist QA](https://jobseveryhour.com/job/associate-specialist-qa-johnson-johnson/) | Sassenheim, Netherlands | €40K - €63K | 2026-11-17 |
 | **Amentum** | [Integration Engineer-Electrical (Graduate)](https://jobseveryhour.com/job/integration-engineer-electrical-graduate-amentum/) | OCONUS-Australia-Alice Springs | — | 2026-11-17 |
@@ -202,6 +205,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Cisco** | [Junior Software Engineer, Metadata Catalog - Splunk](https://jobseveryhour.com/job/junior-software-engineer-metadata-catalog-splunk-cisco/) | Krakow, Poland | — | 2026-11-05 |
 | **Cisco** | [Junior Software Engineer - Webex - Slovakia](https://jobseveryhour.com/job/junior-software-engineer-webex-slovakia-cisco/) | Bratislava, Slovakia | — | 2026-11-05 |
 | **Analog Devices** | [Associate Engineer, Product Engineering (Mfg.)](https://jobseveryhour.com/job/associate-engineer-product-engineering-mfg-analog-devices-3/) | Philippines, Cavite (jp) | — | 2026-11-05 |
+| **Catface** | [Associate Concept Artist - Merch](https://jobseveryhour.com/job/associate-concept-artist-merch-catface/) | Austin, Texas, United States | $60K - $70K | 2026-11-05 |
 | **Intel** | [Graduate Talent (Firmware Development)](https://jobseveryhour.com/job/graduate-talent-firmware-development-intel/) | Malaysia, Penang | — | 2026-11-05 |
 | **TransUnion** | [Associate Developer, SQL and UNIX operating system](https://jobseveryhour.com/job/associate-developer-sql-and-unix-operating-system-transunion/) | Hyderabad | — | 2026-11-05 |
 | **Bristol Myers Squibb** | [Associate II, Shop Floor Quality Assurance Cell Therapy](https://jobseveryhour.com/job/associate-ii-shop-floor-quality-assurance-cell-therapy-bristol-myers-squibb/) | Devens - MA - US | — | 2026-11-05 |
@@ -306,14 +310,10 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Graphcore** | [Graduate Software Engineer, System Software QA 2027](https://jobseveryhour.com/job/graduate-software-engineer-system-software-qa-2027-graphcore/) | Bristol, UK; Cambridge, UK | — | 2026-10-20 |
 | **Graphcore** | [Graduate Firmware Engineer 2027](https://jobseveryhour.com/job/graduate-firmware-engineer-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
 | **Graphcore** | [Graduate Software Engineer, Drivers and Utilities 2027](https://jobseveryhour.com/job/graduate-software-engineer-drivers-and-utilities-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Graphcore** | [Graduate Cloud Platform Engineer 2027](https://jobseveryhour.com/job/graduate-cloud-platform-engineer-2027-graphcore/) | Bristol, UK | — | 2026-10-20 |
-| **Exiger** | [Junior Python Developer](https://jobseveryhour.com/job/junior-python-developer-exiger/) | București, Bucharest, Romania | — | 2026-10-20 |
-| **Jordan Park Group** | [Associate - Full Stack Software Engineer](https://jobseveryhour.com/job/associate-full-stack-software-engineer-jordan-park-group/) | San Francisco, California, United States | $125K - $150K | 2026-10-19 |
-| **Manulife** | [Associate Back-end Software Engineer](https://jobseveryhour.com/job/associate-back-end-software-engineer-manulife/) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | — | 2026-10-20 |
 
 ## More
 
-[Entry-level software jobs](https://jobseveryhour.com/categories/software-development/entry-level/) · [Software engineer salaries](https://jobseveryhour.com/salaries/software-engineer/) · [Software engineer interview questions](https://jobseveryhour.com/interview-questions/software-engineer/) · [Software engineer resume examples](https://jobseveryhour.com/resume/examples/software-engineer/) · [Tech internships](https://github.com/Simba0315/tech-internships-2027) · [Remote software engineer jobs](https://github.com/Simba0315/remote-software-engineer-jobs)
+[Entry-level software jobs](https://jobseveryhour.com/categories/software-development/entry-level/) · [Software engineer salaries](https://jobseveryhour.com/salaries/software-engineer/) · [Software engineer interview questions](https://jobseveryhour.com/interview-questions/software-engineer/) · [Software engineer resume examples](https://jobseveryhour.com/resume/examples/software-engineer/) · [Tech internships](https://github.com/Simba0315/tech-internships-2027) · [Remote software engineer jobs](https://github.com/Simba0315/remote-software-engineer-jobs) · [Entry-level jobs and internships](https://jobseveryhour.com/entry-level/) · [Free resume builder (PDF and Word, no sign-up)](https://jobseveryhour.com/resume/) · [Jobs with the salary listed](https://jobseveryhour.com/with-salary/)
 
 The same list as JSON: https://jobseveryhour.com/api/v1/lists/new-grad-software-engineer.json (free, no key; please link back to [Jobs Every Hour](https://jobseveryhour.com/)).
 This list only links to jobs; applications go to each employer.
