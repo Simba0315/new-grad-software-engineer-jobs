@@ -2,7 +2,7 @@
 
 Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.
 
-**715 open right now · updated 2026-11-26.** The list below shows the 300 newest. Jobs come from
+**731 open right now · updated 2026-11-26.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -10,6 +10,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 
 | Company | Role | Location | Pay | Posted |
 | --- | --- | --- | --- | --- |
+| **66degrees** | [Associate Cloud Architect](https://jobseveryhour.com/job/associate-cloud-architect-66degrees/) | Bengaluru, Pune | — | 2026-11-26 |
+| **Boeing** | [Associate Software Engineer - Analytics](https://jobseveryhour.com/job/associate-software-engineer-analytics-boeing-2/) | IND - Bangalore, India | — | 2026-11-26 |
 | **CodeRabbit** | [Software Engineer - New Grad](https://jobseveryhour.com/job/software-engineer-new-grad-coderabbit/) | San Francisco | $170K - $185K | 2026-11-25 |
 | **Parallel** | [Early Career Software Engineer, Developer Experience](https://jobseveryhour.com/job/early-career-software-engineer-developer-experience-parallel/) | San Francisco | $150K - $300K | 2026-11-25 |
 | **Freetrade** | [Junior iOS Engineer](https://jobseveryhour.com/job/junior-ios-engineer-freetrade/) | London | £40K - £50K | 2026-11-25 |
@@ -22,6 +24,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Lupus Consulting Zrt** | [Junior SAP ABAP Developer](https://jobseveryhour.com/job/junior-sap-abap-developer-lupus-consulting-zrt/) | Brazil | — | 2026-11-25 |
 | **RTX** | [Jr. Information Systems Security Officer (SAP ISSO)](https://jobseveryhour.com/job/jr-information-systems-security-officer-sap-isso-rtx/) | US-IA-CEDAR RAPIDS-139 ~ 855 35Th St NE ~ BLDG 139 | — | 2026-11-25 |
 | **TD Bank** | [2027 Technology Graduate Programme - AI-Native Data Platform Engineering](https://jobseveryhour.com/job/2027-technology-graduate-programme-ai-native-data-platform-e-td-bank/) | Dublin, Ireland | — | 2026-11-25 |
+| **AeroVironment** | [Junior Telemetry Engineer](https://jobseveryhour.com/job/junior-telemetry-engineer-aerovironment/) | Huntsville, AL | — | 2026-11-25 |
 | **Veeva** | [Associate Software Engineer - 2027 Start Dates](https://jobseveryhour.com/job/associate-software-engineer-2027-start-dates-veeva-3/) | North Carolina - Raleigh | — | 2026-11-24 |
 | **Rebel Athletic** | [Junior NetSuite Administrator](https://jobseveryhour.com/job/junior-netsuite-administrator-rebel-athletic/) | Carrollton, TX | $80K - $85K | 2026-11-24 |
 | **Swarmaero** | [Software Engineer, Real-Time Systems (Early Career)](https://jobseveryhour.com/job/software-engineer-real-time-systems-early-career-swarmaero/) | San Francisco | $170K - $220K | 2026-11-24 |
@@ -48,6 +51,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Michael Hsu Office of Architecture** | [Associate (Project Designer/Architect)](https://jobseveryhour.com/job/associate-project-designer-architect-michael-hsu-office-of-architecture/) | Austin, TX | — |  |
 | **Michael Hsu Office of Architecture** | [Associate (Project Designer/Architect)](https://jobseveryhour.com/job/associate-project-designer-architect-michael-hsu-office-of-architecture-2/) | Houston, TX | — |  |
 | **Logitech** | [Junior Embedded System Architect](https://jobseveryhour.com/job/junior-embedded-system-architect-logitech/) | Hsinchu, Taiwan | — | 2026-11-23 |
+| **Xcel Energy** | [Power Plant Engineer, Controls System Focus (Senior, Staff, or Entry level)](https://jobseveryhour.com/job/power-plant-engineer-controls-system-focus-senior-staff-or-e-xcel-energy/) | Burnsville, MN, 55337 | $70K - $89K | 2026-11-23 |
 | **RTX** | [Associate Engineer - C/C++/Python](https://jobseveryhour.com/job/associate-engineer-c-c-python-rtx/) | IN-KA-BENGALURU-NORTHGATE ~ Sy No 2/2 Venkatala Village ~ SY NO 2/2 VENKATALA VILLAGE, Yelahanka Hobli | — | 2026-11-23 |
 | **Northern Trust** | [Associate Specialist, Data Analytics, Advanced Microsoft Excel (incl. VBA), Microsoft Access and SQL skills, Power BI, Power Apps / Power Automate](https://jobseveryhour.com/job/associate-specialist-data-analytics-advanced-microsoft-excel-northern-trust/) | Bangalore, India | — | 2026-11-23 |
 | **Calyx Containers** | [Junior Software Developer – Print & Packaging](https://jobseveryhour.com/job/junior-software-developer-print-packaging-calyx-containers/) | West Valley City, UT | — | 2026-11-22 |
@@ -58,7 +62,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-5/) | Remote | — |  |
 | **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-6/) | Remote | — |  |
 | **Storyteller** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-storyteller-7/) | Remote | — |  |
-| **The Bison** | [Open Source Analyst, Junior](https://jobseveryhour.com/job/open-source-analyst-junior-the-bison/) | Quantico, VA, USA | $60K - $75K | 2026-10-30 |
 | **METECS** | [Junior Simulation Software Engineer](https://jobseveryhour.com/job/junior-simulation-software-engineer-metecs/) | Houston, TX | — |  |
 | **METECS** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-metecs/) | Houston, TX | — |  |
 | **Foundation AI** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-foundation-ai/) | Bogota, Colombia | — |  |
@@ -93,9 +96,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Boeing Subsidiaries** | [Entry-Level Software Engineer–Test & Verification](https://jobseveryhour.com/job/entry-level-software-engineer-test-verification-boeing-subsidiaries/) | USA - Tinker AFB, OK | $66K - $90K | 2026-11-20 |
 | **Boeing Subsidiaries** | [Entry-Level Software Engineer–Developer](https://jobseveryhour.com/job/entry-level-software-engineer-developer-boeing-subsidiaries/) | USA - Richardson, TX | $83K - $113K | 2026-11-20 |
 | **DXC Technology** | [Associate Manager Software Engineering (Project management)](https://jobseveryhour.com/job/associate-manager-software-engineering-project-management-dxc-technology/) | IND - KA - BANGALORE | — | 2026-11-20 |
-| **Boeing** | [Embedded Software Engineer - Entry-Level](https://jobseveryhour.com/job/embedded-software-engineer-entry-level-boeing/) | USA - Hazelwood, MO; USA - Berkeley, MO | $78K - $106K | 2026-11-20 |
 | **Boeing** | [Entry-Level Software Engineer–Test & Verification](https://jobseveryhour.com/job/entry-level-software-engineer-test-verification-boeing/) | USA - Tinker AFB, OK | $66K - $90K | 2026-11-20 |
-| **Boeing** | [Entry-Level Software Engineer–Developer](https://jobseveryhour.com/job/entry-level-software-engineer-developer-boeing/) | USA - Richardson, TX | $83K - $113K | 2026-11-20 |
 | **GDIT** | [Junior Scala Back-End Developer](https://jobseveryhour.com/job/junior-scala-back-end-developer-gdit/) | Any Location / Remote | $89K - $121K | 2026-11-20 |
 | **Analog Devices** | [Associate Engineer, Product Engineering (Mfg.)](https://jobseveryhour.com/job/associate-engineer-product-engineering-mfg-analog-devices-11/) | Philippines, Cavite, GTC | — | 2026-11-20 |
 | **inDrive** | [Junior QA Engineer](https://jobseveryhour.com/job/junior-qa-engineer-indrive/) | Cairo, Cairo Governorate | — |  |
@@ -113,9 +114,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Library Systems & Services** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-library-systems-services/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **LAC Federal** | [Junior Web Developer](https://jobseveryhour.com/job/junior-web-developer-lac-federal/) | Aurora, CO, USA · Remote | $70K - $90K | 2026-11-19 |
 | **Logan A** | [Junior Business Systems & Automation Developer](https://jobseveryhour.com/job/junior-business-systems-automation-developer-logan-a/) | Vandalia, Ohio, United States | $70K | 2026-11-19 |
-| **Hartz Mountain** | [Junior Full Stack Developer](https://jobseveryhour.com/job/junior-full-stack-developer-hartz-mountain/) | Secaucus, NJ, USA | $84K - $105K | 2026-10-15 |
-| **Zantech** | [Jr Web Applications Developer - Agile, ASP.Net, OOP](https://jobseveryhour.com/job/jr-web-applications-developer-agile-asp-net-oop-zantech/) | Andrews Air Force Base AFB, Maryland, United States · Remote | — | 2022-09-19 |
-| **The Gund** | [Entry Level CNC Programmer Operator I](https://jobseveryhour.com/job/entry-level-cnc-programmer-operator-i-the-gund/) | Amsterdam, NY, USA | $25 - $33 an hour | 2026-11-10 |
 | **Formlabs** | [Embedded Software Engineer - Entry Level](https://jobseveryhour.com/job/embedded-software-engineer-entry-level-formlabs-2/) | Boston, MA | $110K - $140K | 2026-11-19 |
 | **Peraton** | [Junior Tool Support Software Engineer](https://jobseveryhour.com/job/junior-tool-support-software-engineer-peraton/) | Annapolis Junction, MD, US | $135K - $216K | 2026-11-19 |
 | **Dewberry** | [Entry Level Architect](https://jobseveryhour.com/job/entry-level-architect-dewberry/) | Danville, VA, US | $66K - $68K | 2026-11-19 |
@@ -124,12 +122,12 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Motorola Solutions** | [Graduate Software Engineer (July 2027 Intake)](https://jobseveryhour.com/job/graduate-software-engineer-july-2027-intake-motorola-solutions/) | Glasgow, UK (ZUK118) | — | 2026-11-19 |
 | **HPE** | [Systems / Software Engineer I Graduate](https://jobseveryhour.com/job/systems-software-engineer-i-graduate-hpe/) | Sunnyvale, California, United States of America | $84K - $170K | 2026-11-19 |
 | **Merck (MSD)** | [Associate Specialist, Data Architect](https://jobseveryhour.com/job/associate-specialist-data-architect-merck-msd/) | POL - Mazowieckie Wojewodztwo - Warsaw (Trade Center) | — | 2026-11-19 |
+| **Westwood Professional Services** | [Graduate Architect](https://jobseveryhour.com/job/graduate-architect-westwood-professional-services/) | Charlotte, NC, USA | — | 2026-11-19 |
 | **DXC Technology** | [Associate Manager ERP Package Applications](https://jobseveryhour.com/job/associate-manager-erp-package-applications-dxc-technology/) | IND - TN - CHENNAI | — | 2026-11-19 |
 | **Julius Baer** | [ServiceNow Junior Developer 100% (f/m/d)](https://jobseveryhour.com/job/servicenow-junior-developer-100-f-m-d-julius-baer/) | Madrid | — | 2026-11-19 |
 | **Kira** | [Software Engineer (Entry Level)](https://jobseveryhour.com/job/software-engineer-entry-level-kira/) | New York or San Francisco | $115K - $140K | 2026-11-18 |
 | **Adjoe** | [Junior Go Backend Developer (f/m/d)](https://jobseveryhour.com/job/junior-go-backend-developer-f-m-d-adjoe/) | Hamburg | — | 2026-11-18 |
 | **Marin Community Clinics** | [Associate Project Manager (Quality Assurance & Improvement) Healthcare](https://jobseveryhour.com/job/associate-project-manager-quality-assurance-improvement-heal-marin-community-clinics/) | Novato, CA, US | — | 2026-11-18 |
-| **Iron Mountain** | [Jr. Software Engineer / Biligual / Remote](https://jobseveryhour.com/job/jr-software-engineer-biligual-remote-iron-mountain/) | MEX / Ciudad de Mexico / Rodolfo Gaona, 86; MEX / Jalisco / Av. Prolongación del Colli, 1104; MEX / Nuevo León / Miguel Hidalgo | — | 2026-11-18 |
 | **ZOLL Medical** | [Associate Full Stack Engineer](https://jobseveryhour.com/job/associate-full-stack-engineer-zoll-medical/) | Chelmsford, MA | $103K - $115K | 2026-11-18 |
 | **Cadence** | [Junior Product Engineer](https://jobseveryhour.com/job/junior-product-engineer-cadence/) | VALBONNE (Sophia) | — | 2026-11-18 |
 | **Braven** | [Associate Salesforce Developer](https://jobseveryhour.com/job/associate-salesforce-developer-braven/) | New York, New York, United States | $87K - $94K | 2026-11-18 |
@@ -142,6 +140,8 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Cisco** | [Junior Software Engineer - System QA - ETR - Serbia](https://jobseveryhour.com/job/junior-software-engineer-system-qa-etr-serbia-cisco/) | Belgrade, Serbia | — | 2026-11-17 |
 | **AeroVironment** | [Junior Software Engineer (TS/SCI w/ Poly)](https://jobseveryhour.com/job/junior-software-engineer-ts-sci-w-poly-aerovironment/) | 420 National Business Parkway, Jessup, MD | $84K - $180K | 2026-11-17 |
 | **Torch Technologies** | [Junior-Level Modeling & Simulation Software Engineer](https://jobseveryhour.com/job/junior-level-modeling-simulation-software-engineer-torch-technologies/) | Huntsville, AL | — | 2026-11-17 |
+| **Millennial Software Solutions** | [Full Stack Developer Junior-Mid](https://jobseveryhour.com/job/full-stack-developer-junior-mid-millennial-software-solutions/) | Chantilly, VA, USA | $80K - $140K | 2026-11-17 |
+| **Millennial Software Solutions** | [Entry Level Full Stack Developer- $65K-$116K + 15% 401k](https://jobseveryhour.com/job/entry-level-full-stack-developer-65k-116k-15-401k-millennial-software-solutions/) | Chantilly, VA, USA | $65K - $116K | 2026-11-17 |
 | **VTS3** | [Jr. Full Stack Engineer, AI Agent Developer](https://jobseveryhour.com/job/jr-full-stack-engineer-ai-agent-developer-vts3/) | New York City, NY | — | 2026-11-17 |
 | **Analog Devices** | [Associate Engineer, Product Engineering (Mfg.)](https://jobseveryhour.com/job/associate-engineer-product-engineering-mfg-analog-devices/) | Philippines, Cavite, GTC | — | 2026-11-17 |
 | **Johnson & Johnson** | [Associate Specialist QA](https://jobseveryhour.com/job/associate-specialist-qa-johnson-johnson/) | Sassenheim, Netherlands | €40K - €63K | 2026-11-17 |
@@ -153,6 +153,9 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Scopely** | [Associate VFX Artist - Marvel Strike Force](https://jobseveryhour.com/job/vfx-artist-scopely/) | MX - Mexico City, Mexico | — | 2026-11-16 |
 | **PDW** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-pdw/) | Burlington, MA | — | 2026-11-16 |
 | **Canonical** | [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobseveryhour.com/job/graduate-software-engineer-open-source-and-linux-canonical-u-canonical-2/) | Home based - Worldwide | — | 2026-11-16 |
+| **Tighe & Bond** | [Entry Level Staff Engineer - Site Civil Design - Summer 2027](https://jobseveryhour.com/job/entry-level-staff-engineer-site-civil-design-summer-2027-tighe-bond/) | Rhinebeck, NY, US | — | 2026-11-16 |
+| **Tighe & Bond** | [Entry Level Staff Engineer - Geotechnical](https://jobseveryhour.com/job/entry-level-staff-engineer-geotechnical-tighe-bond/) | Westfield, MA, US | — | 2026-11-16 |
+| **Tighe & Bond** | [Entry Level Staff Engineer - Traffic Design - Summer 2027](https://jobseveryhour.com/job/entry-level-staff-engineer-traffic-design-summer-2027-tighe-bond/) | Shelton, CT, US | — | 2026-11-16 |
 | **Ciena** | [Embedded Software Engineer - New Grad](https://jobseveryhour.com/job/embedded-software-engineer-new-grad-ciena/) | Ottawa | CA$72K - CA$115K | 2026-11-16 |
 | **NCR Atleos** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-ncr-atleos/) | DUNDEE, GBR | £28K - £30K | 2026-11-16 |
 | **Cox Enterprises** | [Entry Level Software Engineer - Atlanta, GA](https://jobseveryhour.com/job/entry-level-software-engineer-atlanta-ga-cox-enterprises/) | Atlanta GA | $74K - $111K | 2026-11-16 |
@@ -179,9 +182,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Boeing Subsidiaries** | [Associate Test Operations Integration Engineer](https://jobseveryhour.com/job/associate-test-operations-integration-engineer-boeing-subsidiaries/) | USA - Berkeley, MO | $83K - $113K | 2026-11-13 |
 | **o9 Solutions** | [Associate Solution Architect](https://jobseveryhour.com/job/associate-solution-architect-o9-solutions/) | London, UK | — | 2026-11-13 |
 | **BlackRock** | [Associate, Capital Market Data Services](https://jobseveryhour.com/job/associate-capital-market-data-services-blackrock/) | Wilmington, DE | $102K - $118K | 2026-11-13 |
-| **VetsEZ** | [Junior Appian Integration Developer (Remote Opportunity)](https://jobseveryhour.com/job/junior-appian-integration-developer-remote-opportunity-vetsez/) | Tampa, Florida, United States; Philadelphia, Pennsylvania, United States · Remote | — | 2026-08-27 |
-| **Verity** | [Junior Software Engineer / Drone Choreographer](https://jobseveryhour.com/job/junior-software-engineer-drone-choreographer-verity/) | Zurich, Switzerland | — | 2026-09-29 |
-| **General Dynamics Mission Systems** | [Platform Services Software Engineer – Entry Level sign-on & referral bonus](https://jobseveryhour.com/job/platform-services-software-engineer-entry-level-sign-on-refe-general-dynamics-mission-systems/) | Scottsdale, AZ, US · Remote | — | 2026-11-12 |
+| **General Dynamics Mission Systems** | [Platform Services Software Engineer – Entry Level sign-on & referral bonus](https://jobseveryhour.com/job/platform-services-software-engineer-entry-level-sign-on-refe-general-dynamics-mission-systems/) | Scottsdale, AZ, US | — | 2026-11-12 |
 | **DC Thomson** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-dc-thomson/) | Dundee, Scotland, United Kingdom · Remote | — | 2026-11-12 |
 | **Unity Technologies** | [Junior Software Engineer, Platform Support](https://jobseveryhour.com/job/junior-software-engineer-platform-support-unity-technologies/) | Vilnius, Lithuania | — | 2026-11-12 |
 | **Leidos** | [Jr Software Engineer](https://jobseveryhour.com/job/jr-software-engineer-leidos/) | Gaithersburg, MD | $70K - $126K | 2026-11-12 |
@@ -213,12 +214,15 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Highmark Health** | [Graduate Nurse 9C Neuro Trauma Telemetry, Allegheny General](https://jobseveryhour.com/job/graduate-nurse-9c-neuro-trauma-telemetry-allegheny-general-highmark-health/) | Pittsburgh PA, 15212, 320 E N Ave. | — | 2026-11-11 |
 | **Highmark Health** | [RN E8 Medical Telemetry (New Grad), West Penn Hospital](https://jobseveryhour.com/job/rn-e8-medical-telemetry-new-grad-west-penn-hospital-highmark-health/) | Pittsburgh PA, 15224, West Penn 4800 Friendship Ave | — | 2026-11-11 |
 | **eigenblue** | [(Junior) Backend Engineer - AI Agents & LLM Integration (m/f/d)](https://jobseveryhour.com/job/junior-backend-engineer-ai-agents-llm-integration-m-f-d-eigenblue/) | Munich, Germany | — | 2026-11-10 |
+| **Tighe & Bond** | [Entry Level Staff Engineer - Structural Building Design - Summer 2027](https://jobseveryhour.com/job/entry-level-staff-engineer-structural-building-design-summer-tighe-bond/) | Sandwich, MA, US · Remote | — | 2026-11-10 |
 | **Motorola Solutions** | [Jr. Software Engineer, AI Agent Platform](https://jobseveryhour.com/job/jr-software-engineer-ai-agent-platform-motorola-solutions/) | Ontario Remote Work; British Columbia Remote Work | — | 2026-11-10 |
 | **Morgan Stanley** | [Associate, Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-morgan-stanley/) | Alpharetta GA 3 | $171K - $171K | 2026-11-10 |
 | **NVIDIA** | [AI Computing Software Developer - New College Graduate 2027](https://jobseveryhour.com/job/ai-computing-software-developer-new-college-graduate-2027-nvidia/) | Taiwan, Taipei | — | 2026-11-10 |
+| **Philadelphia Corporation for Aging** | [Junior Software Developer](https://jobseveryhour.com/job/junior-software-developer-philadelphia-corporation-for-aging/) | Philadelphia, PA, USA | — | 2026-11-10 |
 | **Belay Technologies** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-belay-technologies-2/) | Fort Meade, MD | $70K - $190K | 2026-11-10 |
 | **10Pearls** | [Associate /Software Architect - .Net + React + Azure](https://jobseveryhour.com/job/associate-software-architect-net-react-azure-10pearls/) | Lahore, Karachi, Islamabad, Pakistan | — | 2026-11-10 |
 | **IQVIA** | [Fresh Graduate Data Analyst (Python/SQL) - French Native Speaker (Spain Remote)](https://jobseveryhour.com/job/fresh-graduate-data-analyst-python-sql-french-native-speaker-iqvia/) | Madrid, Spain | — | 2026-11-10 |
+| **The Gund** | [Entry Level CNC Programmer Operator I](https://jobseveryhour.com/job/entry-level-cnc-programmer-operator-i-the-gund/) | Amsterdam, NY, USA | $25 - $33 an hour | 2026-11-10 |
 | **Paystand** | [Junior Fullstack Engineer](https://jobseveryhour.com/job/junior-fullstack-engineer-paystand/) | Ciudad de México | — | 2026-11-09 |
 | **Exadel** | [Associate Database Administrator (SQL Server, Oracle)](https://jobseveryhour.com/job/associate-database-administrator-sql-server-oracle-exadel/) | São Paulo, Brazil | — | 2026-11-09 |
 | **Braiins** | [Scientific software engineer (junior Rust)](https://jobseveryhour.com/job/rust-developer-for-braiins-os-braiins/) | Braiins | — | 2026-11-09 |
@@ -233,7 +237,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Shield AI** | [Software Engineer I - Internal Tools (New Grad)](https://jobseveryhour.com/job/software-engineer-i-internal-tools-new-grad-r6052-shield-ai-2/) | Seattle, WA, US | $95K - $145K | 2026-11-07 |
 | **Exadel Inc (Website)** | [Associate Database Administrator (SQL Server, Oracle)](https://jobseveryhour.com/job/associate-database-administrator-sql-server-oracle-exadel-inc-website-2/) | São Paulo, Brazil | — | 2026-11-06 |
 | **Exadel Inc (Website)** | [Associate Database Administrator (SQL Server, Oracle)](https://jobseveryhour.com/job/associate-database-administrator-sql-server-oracle-exadel-inc-website/) | São Paulo, Brazil | — | 2026-11-06 |
-| **AURIC** | [Junior Full-Stack Web Developer](https://jobseveryhour.com/job/junior-full-stack-web-developer-auric/) | Philippines; Colombia; Brazil; Mexico · Remote | $6 - $10 an hour | 2024-07-19 |
 | **Peraton** | [Junior Software Engineer (AWS Cloud Services)](https://jobseveryhour.com/job/junior-software-engineer-aws-cloud-services-peraton/) | Lanham, MD, US | $66K - $106K | 2026-11-06 |
 | **Peraton** | [Junior Software Engineer (AWS Cloud Services)](https://jobseveryhour.com/job/junior-software-engineer-aws-cloud-services-peraton-2/) | Lanham, MD, US | $66K - $106K | 2026-11-06 |
 | **Applied Systems** | [Associate Salesforce Administrator](https://jobseveryhour.com/job/associate-salesforce-administrator-applied-systems/) | UNAVAILABLE, US; UNAVAILABLE, CA | $62K - $80K | 2026-11-06 |
@@ -253,6 +256,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Catface** | [Associate Concept Artist - Merch](https://jobseveryhour.com/job/associate-concept-artist-merch-catface/) | Austin, Texas, United States | $60K - $70K | 2026-11-05 |
 | **Intel** | [Graduate Talent (Firmware Development)](https://jobseveryhour.com/job/graduate-talent-firmware-development-intel/) | Malaysia, Penang | — | 2026-11-05 |
 | **Bristol Myers Squibb** | [Associate II, Shop Floor Quality Assurance Cell Therapy](https://jobseveryhour.com/job/associate-ii-shop-floor-quality-assurance-cell-therapy-bristol-myers-squibb/) | Devens - MA - US | — | 2026-11-05 |
+| **Northrop Grumman** | [Associate/Tooling Engineer Level 1/2](https://jobseveryhour.com/job/associate-tooling-engineer-level-1-2-northrop-grumman/) | United States-Utah-Layton | $60K - $90K | 2026-11-05 |
 | **PFH Technology** | [Associate Solutions Architect](https://jobseveryhour.com/job/associate-solutions-architect-pfh-technology/) | Dublin, Ireland | — | 2026-11-05 |
 | **GDIT** | [Jr. Net, C#, SQL Developer - Active Top Secret required](https://jobseveryhour.com/job/jr-net-c-sql-developer-active-top-secret-required-gdit/) | USA DC Washington | $81K - $92K | 2026-11-05 |
 | **GBMC HealthCare** | [Unit 42 (Medicine/Telemetry/Oncology), New Graduate Registered Nurse 1 - Nightshift (7pm-7:30am) with $5,000 SIGN-ON BONUS!](https://jobseveryhour.com/job/unit-42-medicine-telemetry-oncology-new-graduate-registered-gbmc-healthcare/) | GBMC Hospital | — | 2026-11-05 |
@@ -265,6 +269,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **BAE Systems OneArc** | [Junior Content QA Analyst - Military training simulation (PRG)](https://jobseveryhour.com/job/junior-content-qa-analyst-military-training-simulation-prg-bae-systems-onearc/) | Prague, Karlín, Czech Republic | — | 2026-11-04 |
 | **Concord Hospital** | [RN, Telemetry, Nights 7 pm - 7 am, New Night Rate, New Grads Welcome](https://jobseveryhour.com/job/rn-telemetry-nights-7-pm-7-am-new-night-rate-new-grads-welco-concord-hospital/) | Laconia, New Hampshire; Franklin, New Hampshire | — | 2026-11-04 |
 | **Duolingo** | [QA Specialist I, Recent Graduate](https://jobseveryhour.com/job/qa-specialist-i-recent-graduate-duolingo/) | New York, NY; Pittsburgh, PA | $68K - $78K | 2026-11-03 |
+| **Combined Solutions** | [Entry Level Team Lead](https://jobseveryhour.com/job/entry-level-team-lead-combined-solutions/) | lake mary, FL | $55K - $65K | 2026-11-03 |
 | **Highmark Health** | [RN - Telemetry Intermediate Care (NEW GRADS) Jefferson](https://jobseveryhour.com/job/rn-telemetry-intermediate-care-new-grads-jefferson-highmark-health/) | Jefferson Hills PA, 15025, 565 Coal Valley Road | — | 2026-11-03 |
 | **Highmark Health** | [RN T9 Progressive Care/Telemetry (New Grad), West Penn Hospital](https://jobseveryhour.com/job/rn-t9-progressive-care-telemetry-new-grad-west-penn-hospital-highmark-health/) | Pittsburgh PA, 15224, West Penn 4800 Friendship Ave | — | 2026-11-03 |
 | **Verkada** | [Backend Software Engineer - University Graduate 2027](https://jobseveryhour.com/job/backend-software-engineer-university-graduate-2027-verkada/) | San Mateo, CA United States | $120K - $140K | 2026-11-02 |
@@ -285,7 +290,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **European Dynamics** | [Junior Python Developer](https://jobseveryhour.com/job/junior-python-developer-european-dynamics/) | Athens, Attica, Greece · Remote | — | 2026-11-02 |
 | **Boeing** | [Associate Fullstack Software Engineer](https://jobseveryhour.com/job/associate-fullstack-software-engineer-boeing/) | POL - Gdansk, Poland | — | 2026-10-31 |
 | **Boeing Subsidiaries** | [Associate Fullstack Software Engineer](https://jobseveryhour.com/job/associate-fullstack-software-engineer-boeing-subsidiaries/) | POL - Gdansk, Poland | — | 2026-10-31 |
-| **Millennial Software Solutions** | [Full Stack Developer Junior-Mid](https://jobseveryhour.com/job/full-stack-developer-junior-mid-millennial-software-solutions/) | Chantilly, VA, USA | $80K - $140K | 2026-11-17 |
 | **Trainline** | [Junior Android Engineer](https://jobseveryhour.com/job/junior-android-engineer-trainline/) | Barcelona | €40K - €45K | 2026-10-30 |
 | **Urban Science Applications** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-urban-science-applications-2/) | Detroit, MI, US | — | 2026-10-30 |
 | **Dillon Consulting** | [Junior/Intermediate Architect](https://jobseveryhour.com/job/junior-intermediate-architect-dillon-consulting/) | Ottawa, ON, CA | CA$73K - CA$124K | 2026-10-30 |
@@ -293,6 +297,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Global Draw** | [Associate Game Designer / Mathematician](https://jobseveryhour.com/job/associate-game-designer-mathematician-global-draw/) | Silverwater, Australia | — | 2026-10-30 |
 | **PRU** | [Associate, Business Systems Analyst (11am - 7pm), PGIM Ireland](https://jobseveryhour.com/job/associate-business-systems-analyst-11am-7pm-pgim-ireland-pru/) | Letterkenny, Ireland | — | 2026-10-30 |
 | **BlackRock** | [Associate, Market Data Services](https://jobseveryhour.com/job/associate-market-data-services-blackrock/) | Singapore, Singapore | — | 2026-10-30 |
+| **The Bison** | [Open Source Analyst, Junior](https://jobseveryhour.com/job/open-source-analyst-junior-the-bison/) | Quantico, VA, USA | $60K - $75K | 2026-10-30 |
 | **NorthwoodSpace** | [Software Engineer - Early Career (Platform)](https://jobseveryhour.com/job/software-engineer-early-career-platform-northwoodspace/) | Torrance, CA | $123K - $140K | 2026-10-29 |
 | **Akselos** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-akselos/) | Ho Chi Minh City, Vietnam, Viet Nam | — | 2026-10-29 |
 | **Julius Baer** | [Junior Frontend Engineer 100% (f/m/d)](https://jobseveryhour.com/job/junior-frontend-engineer-100-f-m-d-julius-baer/) | Madrid | — | 2026-10-29 |
@@ -305,11 +310,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Global Draw** | [Associate Game Designer / Mathematician](https://jobseveryhour.com/job/associate-game-designer-mathematician-global-draw-2/) | Silverwater, Australia | — | 2026-10-28 |
 | **Jungheinrich Business Service Croatia d.o.o** | [Junior Software QA Engineer – Intralogistics Systems](https://jobseveryhour.com/job/junior-software-qa-engineer-intralogistics-systems-jungheinrich-business-service-croatia-d-o-o/) | Zagreb, Croatia (Hrvatska) | — | 2026-10-28 |
 | **Torch Technologies** | [Jr. Modeling & Simulation Orchestration/Kubernetes Engineer](https://jobseveryhour.com/job/jr-modeling-simulation-orchestration-kubernetes-engineer-torch-technologies/) | Huntsville, AL | — | 2026-10-28 |
-| **JND** | [[Entry Level] Software Tester / Field Tester (2605-3)](https://jobseveryhour.com/job/entry-level-software-tester-field-tester-2605-3-jnd/) | Plano, Texas, United States; Bellevue, Washington, United States; Englewood Cliffs, New Jersey, United States | — | 2026-05-21 |
-| **JND** | [[Entry Level] Software Tester (2605-3)](https://jobseveryhour.com/job/entry-level-software-tester-2605-3-jnd/) | Plano, Texas, United States; Bellevue, Washington, United States; Englewood Cliffs, New Jersey, United States | — | 2026-05-21 |
-| **JND** | [[Entry Level] Software Tester (2608-2)](https://jobseveryhour.com/job/entry-level-software-tester-2608-2-jnd/) | Plano, Texas, United States | $28 - $32 an hour | 2026-08-19 |
-| **JND** | [[Entry Level] Korean Bilingual QA / Test Engineer - Mobile Software, AI, 5G Field & Product Quality Testing (261001-2)](https://jobseveryhour.com/job/entry-level-korean-bilingual-qa-test-engineer-mobile-softwar-jnd/) | DFW, Texas, United States | — | 2026-10-09 |
-| **SambaNova** | [Cloud Platform Engineer - New Grad](https://jobseveryhour.com/job/cloud-platform-engineer-new-grad-sambanova/) | Austin, Texas, United States; San Jose, California, United States | $131K - $197K | 2026-10-27 |
 
 ## More
 
