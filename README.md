@@ -2,7 +2,7 @@
 
 Junior, entry-level and new grad software engineer jobs at companies hiring now. Internships are in a separate list.
 
-**749 open right now · updated 2026-11-27.** The list below shows the 300 newest. Jobs come from
+**758 open right now · updated 2026-11-28.** The list below shows the 300 newest. Jobs come from
 [Jobs Every Hour](https://jobseveryhour.com/categories/software-development/entry-level/), which reads employers' own career pages every hour and drops a job as soon as the employer closes it,
 so you do not apply to stale copies. Each link opens the job's page with the employer's own apply button.
 
@@ -13,6 +13,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **IONOS EN** | [Junior Java Developer within Customer Processes Development team (hybrid)](https://jobseveryhour.com/job/junior-java-developer-within-customer-processes-development-ionos-en/) | Calea Floreasca 246c, 014476 Bucharest | — | 2026-11-27 |
 | **Blp Digital** | [Junior Project Manager (ERP Automation)](https://jobseveryhour.com/job/junior-project-manager-erp-automation-blp-digital-2/) | Munich | — | 2026-11-27 |
 | **Manulife** | [Associate Backend Software Engineer](https://jobseveryhour.com/job/associate-backend-software-engineer-manulife/) | Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur | — | 2026-11-27 |
+| **HireHawk** | [Associate Software Engineer (Remote), United States](https://jobseveryhour.com/job/associate-software-engineer-remote-united-states-hirehawk/) | Portland, Oregon, United States · Remote | $90K - $110K | 2026-11-27 |
 | **66degrees** | [Associate Cloud Architect](https://jobseveryhour.com/job/associate-cloud-architect-66degrees/) | Bengaluru, Pune | — | 2026-11-26 |
 | **Boeing** | [Associate Software Engineer - Analytics](https://jobseveryhour.com/job/associate-software-engineer-analytics-boeing-2/) | IND - Bangalore, India | — | 2026-11-26 |
 | **Boeing Subsidiaries** | [Associate Software Engineer - Analytics](https://jobseveryhour.com/job/associate-software-engineer-analytics-boeing-subsidiaries/) | IND - Bangalore, India | — | 2026-11-26 |
@@ -139,7 +140,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **Kira** | [Software Engineer (Entry Level)](https://jobseveryhour.com/job/software-engineer-entry-level-kira/) | New York or San Francisco | $115K - $140K | 2026-11-18 |
 | **Adjoe** | [Junior Go Backend Developer (f/m/d)](https://jobseveryhour.com/job/junior-go-backend-developer-f-m-d-adjoe/) | Hamburg | — | 2026-11-18 |
 | **Marin Community Clinics** | [Associate Project Manager (Quality Assurance & Improvement) Healthcare](https://jobseveryhour.com/job/associate-project-manager-quality-assurance-improvement-heal-marin-community-clinics/) | Novato, CA, US | — | 2026-11-18 |
-| **ZOLL Medical** | [Associate Full Stack Engineer](https://jobseveryhour.com/job/associate-full-stack-engineer-zoll-medical/) | Chelmsford, MA | $103K - $115K | 2026-11-18 |
 | **Cadence** | [Junior Product Engineer](https://jobseveryhour.com/job/junior-product-engineer-cadence/) | VALBONNE (Sophia) | — | 2026-11-18 |
 | **Braven** | [Associate Salesforce Developer](https://jobseveryhour.com/job/associate-salesforce-developer-braven/) | New York, New York, United States | $87K - $94K | 2026-11-18 |
 | **Booz Allen Hamilton** | [Open-Source Research Analyst, Junior](https://jobseveryhour.com/job/open-source-research-analyst-junior-booz-allen-hamilton-2/) | McLean, VA | $53K - $108K | 2026-11-18 |
@@ -171,7 +171,6 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **The Aerospace Corporation** | [Jr. Data Solutions and Software Engineer](https://jobseveryhour.com/job/jr-data-solutions-and-software-engineer-the-aerospace-corporation/) | El Segundo, CA | $82K - $122K | 2026-11-16 |
 | **AeroVironment** | [Associate Software Engineer](https://jobseveryhour.com/job/associate-software-engineer-aerovironment/) | Moorpark, CA | $72K - $122K | 2026-11-16 |
 | **Belay Technologies** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-belay-technologies/) | Fort Meade, MD | $70K - $190K | 2026-11-16 |
-| **Assurant Services Argentina** | [Associate Quality Assurance Coordinator](https://jobseveryhour.com/job/associate-quality-assurance-coordinator-assurant-services-argentina/) | Miami, FL | — | 2026-11-16 |
 | **Leidos** | [Network Integration Engineer – Junior](https://jobseveryhour.com/job/network-integration-engineer-junior-leidos/) | 6314 Remote/Teleworker US | $59K - $107K | 2026-11-16 |
 | **Faith Technologies** | [Associate Product Architect](https://jobseveryhour.com/job/associate-product-architect-faith-technologies/) | WI - Menasha; FL - Indian Town; AZ - Phoenix | — | 2026-11-16 |
 | **Faith Technologies** | [Associate Product Architect](https://jobseveryhour.com/job/associate-product-architect-faith-technologies-2/) | WI - Menasha; FL - Indian Town; AZ - Phoenix | — | 2026-11-16 |
@@ -183,6 +182,7 @@ so you do not apply to stale copies. Each link opens the job's page with the emp
 | **DXC Technology** | [Associate Manager Software Engineering](https://jobseveryhour.com/job/associate-manager-software-engineering-dxc-technology-2/) | IND - KA - BANGALORE | — | 2026-11-13 |
 | **Boeing** | [Associate Missions Systems Software Engineer - Embedded](https://jobseveryhour.com/job/associate-missions-systems-software-engineer-embedded-boeing/) | USA - Berkeley, MO | $99K - $135K | 2026-11-13 |
 | **Lemonedge Technology** | [Junior Software Engineer](https://jobseveryhour.com/job/junior-software-engineer-lemonedge-technology/) | United States · Remote | — | 2026-11-13 |
+| **Boeing Subsidiaries** | [Associate Missions Systems Software Engineer - Embedded](https://jobseveryhour.com/job/associate-missions-systems-software-engineer-embedded-boeing-subsidiaries/) | USA - Berkeley, MO | $99K - $135K | 2026-11-13 |
 | **Aretum** | [Junior Web Developer/Engineer - Contingent](https://jobseveryhour.com/job/junior-web-developer-engineer-contingent-aretum/) | McLean, Virginia, United States · Remote | $75K - $100K | 2026-11-13 |
 | **Book of the Month** | [Associate Product Engineer](https://jobseveryhour.com/job/associate-product-engineer-book-of-the-month/) | New York, NY | $90K - $110K | 2026-11-13 |
 | **Boeing** | [Associate Test Operations Integration Engineer](https://jobseveryhour.com/job/associate-test-operations-integration-engineer-boeing/) | USA - Berkeley, MO | $83K - $113K | 2026-11-13 |
